@@ -1,6 +1,9 @@
 ID                     01
 Module                 Main Page
 Environment            Windows 10
+Assignee               developer
+Severity               Blocker
+Priority               ASAP
 Summary                System crashed after clicking Sign in button
 Steps to reproduce     1.Open the URL...                                                                                      2.Click Sign in button
 Expected Result        Sign in form is opened
