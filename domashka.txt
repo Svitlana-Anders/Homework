@@ -1,4 +1,0 @@
-this fail is created couse wheh i try to create new branch fatal is appeared: not a valid  object name: 'main'
-
-git add .
-[A[C[C[C[C[C[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
