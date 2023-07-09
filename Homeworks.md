@@ -9,4 +9,12 @@ Thank you for your support and for your interest in my achievements!</p>
 
 ---
 
-<h1></h1>
+<h2>Terminal Linux</h2>
+
+* [HW_1](https://docs.google.com/document/d/1Cb5XI6QB5DwQzWIZdtZRnnpwDBzAQwJFGWVzbHx-zck/edit?usp=sharing)
+* [HW_2]
+
+<h2>GitHub</h2>
+
+* [HW_1](https://github.com/Svitlana-Anders/Homework/blob/e47b539bd2085fb90feb152761ec83ca5d72cfee/GitHub_HW_1.md)
+* [HW_2]
