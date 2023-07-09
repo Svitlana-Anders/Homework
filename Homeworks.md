@@ -18,3 +18,27 @@ Thank you for your support and for your interest in my achievements!</p>
 
 * [HW_1](https://github.com/Svitlana-Anders/Homework/blob/e47b539bd2085fb90feb152761ec83ca5d72cfee/GitHub_HW_1.md)
 * [HW_2]
+
+  <h2>SQL</h2>
+
+* [HW_1]
+* [HW_2]
+* [HW_3]
+
+  <h2>Postman</h2>
+
+* [HW_1]
+* [HW_2]
+* [HW_3]
+
+<h2>Client-Server</h2>
+
+* [Задание](https://github.com/Svitlana-Anders/Homework/blob/d0be0b1e3db43abaa9ccfef0c35ace297867fc8f/Client-Server_HW.md)
+* [DevTools_Video](https://drive.google.com/file/d/1aSHFKT4qnTUyZ8U_3XRkyNtcKAfoDlfx/view?usp=sharing)
+
+ <h2>WebServices</h2>
+
+* [Тех.задание](https://docs.google.com/document/d/1yJes_yncucaz7Tf_G47ofT1GMwx6bN5tTdbkBr_uM9w/edit?usp=sharing)
+* [Схема](https://drive.google.com/file/d/1dOWuXds06NtAusEjYxB_LbuJY4vBIshz/view) 
+
+ 
