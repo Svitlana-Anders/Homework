@@ -11,7 +11,7 @@ Thank you for your support and for your interest in my achievements!</p>
 
 <h2>Terminal Linux</h2>
 
-* [HW_1](https://docs.google.com/document/d/1Cb5XI6QB5DwQzWIZdtZRnnpwDBzAQwJFGWVzbHx-zck/edit?usp=sharing)
+* [HW_1](https://github.com/Svitlana-Anders/Homework/blob/71d54452aa982cd1019c6c835060b3bd977166ff/Terminal_Linux(GitBash)_1.md))
 * [HW_2](https://github.com/Svitlana-Anders/Homework/blob/31cf4fb2ca293f06b6c40c4e36516bbf581a9cc6/Terminal_Linux(GitBash)_2.md)
 
 <h2>GitHub</h2>
