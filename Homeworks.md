@@ -16,20 +16,19 @@ Thank you for your support and for your interest in my achievements!</p>
 
 <h2>GitHub</h2>
 
-* [HW_1](https://github.com/Svitlana-Anders/Homework/blob/e47b539bd2085fb90feb152761ec83ca5d72cfee/GitHub_HW_1.md)
-* [HW_2]
+* [HW_1](https://github.com/Svitlana-Anders/Homework/blob/9d28425da122c33e9377705c2d99916dbd21473c/GitHub_HW_1.md)
+* [HW_2](https://github.com/Svitlana-Anders/Homework/blob/9d28425da122c33e9377705c2d99916dbd21473c/GitHub%20HW_2.md)
 
   <h2>SQL</h2>
 
-* [HW_1]
-* [HW_2]
-* [HW_3]
+* [HW_1](https://github.com/Svitlana-Anders/Homework/blob/9d28425da122c33e9377705c2d99916dbd21473c/SQL%20HW_1.md)
+* [HW_2](https://github.com/Svitlana-Anders/Homework/blob/9d28425da122c33e9377705c2d99916dbd21473c/SQL%20HW_2.md)
+* [HW_3](https://github.com/Svitlana-Anders/Homework/blob/9d28425da122c33e9377705c2d99916dbd21473c/SQL%20HW_3.md)
 
   <h2>Postman</h2>
 
-* [HW_1]
-* [HW_2]
-* [HW_3]
+* [HW_1](https://github.com/Svitlana-Anders/Postman/blob/853080a60b2aa42baf00260fbac7b4831513fbd7/HW_1.postman_collection.json)
+* [HW_2](https://github.com/Svitlana-Anders/Postman/blob/853080a60b2aa42baf00260fbac7b4831513fbd7/HW_2.postman_collection.json)
 
 <h2>Client-Server</h2>
 
